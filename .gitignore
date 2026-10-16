@@ -1,0 +1,24 @@
+# ---------- Keil MDK 编译输出 ----------
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.hex.asm
+*.build_log.htm
+*.dep
+*.lnp
+*.sct
+*.map
+
+# ---------- Proteus 备份 / 个人工作区文件 ----------
+*.pdsbak
+*.workspace
+Backup Of *
+Last Loaded *
+
+# ---------- 系统 / 编辑器 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
